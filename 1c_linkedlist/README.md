@@ -1,1 +1,10 @@
-
+1.LinkedListElementPositions
+https://github.com/VarungowdaNR/advancejava/blob/main/1c_linkedlist/1c-1.png
+2.LinkedListInsertAtEnd
+https://github.com/VarungowdaNR/advancejava/blob/main/1c_linkedlist/1c-2.png
+3.LinkedListIterateFromSecond
+https://github.com/VarungowdaNR/advancejava/blob/main/1c_linkedlist/1c-3.png
+4.LinkedListReverseIterate
+https://github.com/VarungowdaNR/advancejava/blob/main/1c_linkedlist/1c-4.png
+5.LinkedListSwap
+https://github.com/VarungowdaNR/advancejava/blob/main/1c_linkedlist/1c-5.png
