@@ -2,7 +2,8 @@
 the color "Red" is available or not   https://github.com/VarungowdaNR/advancejava/blob/main/1b.ListArray/1b-1.png
 
 2.Write a java program for getting different colors through ArrayList interface and remove the
-2nd element and color "Blue" from the ArrayListhttps://github.com/VarungowdaNR/advancejava/blob/main/1b.ListArray/1b-2.png
+2nd element and color "Blue" from the ArrayList
+https://github.com/VarungowdaNR/advancejava/blob/main/1b.ListArray/1b-2.png
 
 3.Write a java program for getting different colors through ArrayList interface and sort them
 using Collections.sort( ArrayListObj)
