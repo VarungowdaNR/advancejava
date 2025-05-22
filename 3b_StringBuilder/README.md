@@ -1,0 +1,10 @@
+1.PalindromeCheck 
+https://github.com/VarungowdaNR/advancejava/blob/main/3b_StringBuilder/3B-Q1.png
+2.RemoveWhitespace
+https://github.com/VarungowdaNR/advancejava/blob/main/3b_StringBuilder/3B-Q2.png
+3.StringCheck
+https://github.com/VarungowdaNR/advancejava/blob/main/3b_StringBuilder/3B-Q3.png
+4.StringReverse
+https://github.com/VarungowdaNR/advancejava/blob/main/3b_StringBuilder/3B-Q4.png
+5.SubStringCount
+https://github.com/VarungowdaNR/advancejava/blob/main/3b_StringBuilder/3B-Q5.png
