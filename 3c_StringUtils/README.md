@@ -1,0 +1,10 @@
+1.CapitalizeWorld
+https://github.com/VarungowdaNR/advancejava/blob/main/3c_StringUtils/3C-Q10.png
+2.IsNumeric
+https://github.com/VarungowdaNR/advancejava/blob/main/3c_StringUtils/3C-Q6.png
+3.RandomStringGenarator
+https://github.com/VarungowdaNR/advancejava/blob/main/3c_StringUtils/3C-Q7.png
+4.TruncateString
+https://github.com/VarungowdaNR/advancejava/blob/main/3c_StringUtils/3C-Q8.png
+5.WorldCount
+https://github.com/VarungowdaNR/advancejava/blob/main/3c_StringUtils/3C-Q9.png
